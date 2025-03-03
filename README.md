@@ -15,8 +15,6 @@ HTML5 – Structure of the website
 CSS3 – Styling and layout
 JavaScript – Interactivity and animations
 
-## 📸 Screenshots
-
 ## 📂 Project Structure
 bash
 Copy
