@@ -29,7 +29,7 @@ Edit
 │── README.md  
 
 ## 🔗 Live Demo
-[(https://dhruvsanandiya.netlify.app/)]
+🔗https://dhruvsanandiya.netlify.app/
 
 ## 📌 Setup Instructions
 Clone this repository:
@@ -40,5 +40,5 @@ git clone https://github.com/dhruvsanandiya/portfolio-website.git
 Open index.html in your browser.
 
 ## 📧 Contact
-🔗 Linkedin: [https://www.linkedin.com/in/dhruvsanandiya/]
-📩 Email: [sanandiyadhruv77@email.com]
+🔗 Linkedin: https://www.linkedin.com/in/dhruvsanandiya/
+📩 Email: sanandiyadhruv77@email.com
